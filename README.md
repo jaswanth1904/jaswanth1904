@@ -1,5 +1,5 @@
 # jaswanth1904
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbilginc.com%2Fen%2Fblog%2Fwhat-is-a-backend-developer-5907%2F&psig=AOvVaw0Jy1EQchTxQCHDFMmo4znE&ust=1733489917433000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND8s6fXkIoDFQAAAAAdAAAAABAJ">
+![MasterHead](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)
 <h1 align="center">Hi 👋, I'm Jaswanth Ampabathuni</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
