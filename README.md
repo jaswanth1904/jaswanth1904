@@ -73,17 +73,21 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 ---
 
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaswanthAmpabathuni&show_icons=true&theme=tokyonight&count_private=true" alt="Jaswanth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthAmpabathuni&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <!-- Dynamic Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaswanth1904&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7abc6f&point=e0af68&area=true&hide_border=true" alt="Jaswanth's Activity Graph" width="100%" />
 </p>
+
+<br/>
+
+### 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaswanthAmpabathuni&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <!-- Snake Animation Game generated from your actual GitHub contributions -->
+  <img src="https://github.com/jaswanth1904/jaswanth1904/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
 </p>
-
 ---
 
 ### 📈 Activity & Experience
