@@ -1,162 +1,96 @@
-# 🚀 Welcome to my digital space!
-
-<p align="center">
-  <img src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" width="100%" alt="Developer Banner" style="border-radius: 15px;" />
-</p>
-
----
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h1>Hi 👋, I'm Jaswanth Ampabathuni</h1>
-      <h3>✨ Full-Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
-      <p>
-        I am a passionate <b>Full-Stack Developer</b> from India, specializing in building high-performance, responsive, and visually stunning web applications. I love turning complex problems into elegant, user-friendly digital solutions.
-      </p>
-      <p>
-        🔭 <b>Current Focus:</b> Designing modern SaaS-style web experiences and optimizing server-side architectures.
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=jaswanth1904&label=Profile%20Views&color=007aff&style=flat-square" alt="Profile Views" />
-      </p>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" alt="Coding Avatar" style="border-radius: 20px;" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ My Tech Stack & Professional Toolkit
-
-I love exploring new frameworks and technologies, keeping my skills sharp and up-to-date with industry standards:
-
-### 🌐 Frontend Engineering
+# Hi there, I'm Ampabathuni Venkata Sai Jaswanth! 👋
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <a href="https://linkedin.com/in/jaswanth-avs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <a href="mailto:aj19.jaswanth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
-### ⚙️ Backend & Database
+---
+
+### 🚀 About Me
+
+I am a highly motivated and adaptive **Computer Science and Engineering** graduate with strong hands-on experience building responsive full-stack applications, cross-platform mobile frameworks, and managing RESTful API data pipelines. I specialize in taking platforms from architectural concept to live cloud deployment.
+
+- 🎓 **Education:** B.Tech in Computer Science and Engineering from Vel Tech University (GPA: 8.16/10)
+- 💼 **Focus:** Full-Stack Web Development, Mobile Architectures, and Performance Optimization
+- 🌱 **Currently Upskilling In:** Golang and advanced backend systems
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  
+  <br/>
 
-### 🛠️ Cloud, DevOps & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=6DA55F" alt="Express.js" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+### 💻 Featured Projects
 
-Here is a selection of my best work. Click on each section to inspect interactive details:
+📂 **[SN Enviro Attendance Portal](https://github.com/Jaswanthampabathuni)**
+> Engineered a responsive, mobile-friendly full-stack portal featuring independent frontend structures and backend APIs for real-time tracking updates. Optimized layout viewport behaviors to maximize cross-device coordination.
 
-<details>
-<summary><b>🎓 1. Sunvision Skill Development Society Portal (Full-Stack)</b></summary>
+📂 **[Sunvision Skill Development Platform](https://github.com/Jaswanthampabathuni)**
+> Designed a high-performance modular web platform utilizing clean architecture separation. Built fully asynchronous database communication paths alongside robust client-side validation loops.
 
-### [👉 Live Website](https://sunvision-skill-devlopment.vercel.app/) | [💻 Backend API](https://sunvision-backend.onrender.com)
-*   **Description:** A complete administrative and public-facing portal designed to manage course registrations, student feedback, and placement records.
-*   **Key Contributions:** 
-    *   Crafted a fully responsive dashboard for administrators using Next.js 15, Framer Motion, and Tailwind CSS.
-    *   Engineered a secure Node/Express API with custom JWT-based authentication and role authorization.
-    *   Designed an interactive custom quiz engine that dynamically tracks user progress client-side.
-*   **Technologies:** Next.js, React, Node.js, Express, MongoDB Atlas, Tailwind CSS, Vercel, Render.
-</details>
+📂 **[E-commerce Shopping Web](https://github.com/Jaswanthampabathuni/E-commerce-shopping-web)**
+> Created an end-to-end transactional storefront complete with active state management systems for shopping carts, multi-conditional indexing, and custom security middleware parameters.
 
-<details>
-<summary><b>🎟️ 2. Tickets-Booking-Website</b></summary>
-
-### [👉 Github Repository](https://github.com/jaswanth1904/Travel-booking-website)
-*   **Description:** An intuitive, user-friendly portal designed to ease traveling procedures by booking flights, trains, and buses with real-time seat tracking.
-*   **Technologies:** React, Tailwind CSS, JavaScript, HTML5.
-</details>
-
-<details>
-<summary><b>🛡️ 3. Phishing Website Detection (ML Techniques)</b></summary>
-
-### [👉 Github Repository](https://github.com/jaswanth1904/Phishing-website-detection-by-machine-learning-techniques-)
-*   **Description:** A machine learning pipeline designed to inspect URL features and classify malicious URLs to protect users from credential stealing.
-*   **Technologies:** Python, Scikit-Learn, Machine Learning, Data Extraction.
-</details>
+📂 **[E2F Holidays Modern Travel Booking Client](https://github.com/Jaswanthampabathuni/e2f-holidays)**
+> Built a modular booking workspace configured with Vite engines for high-speed client delivery asset rendering alongside automated integration workflows.
 
 ---
 
-## 📊 My GitHub Analytics
-
-Let's look at my live GitHub metrics (updated dynamically!):
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth1904&show_icons=true&theme=calm&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth1904&layout=compact&theme=calm&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanthampabathuni&show_icons=true&theme=tokyonight&count_private=true" alt="Jaswanth's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthampabathuni&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth1904&theme=calm&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanthampabathuni&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
-## 📬 Let's Connect & Collaborate!
-
-I am always open to discussing new opportunities, full-stack projects, or collaboration on security and ML!
-
-*   **📧 Email:** [aj19.jaswanth@gmail.com](mailto:aj19.jaswanth@gmail.com)
-*   **💼 LinkedIn:** [linkedin.com/in/jaswanth-a-396a3526a/](https://www.linkedin.com/in/jaswanth-a-396a3526a/)
-*   **📄 Professional Resume:** [Download my Resume](https://drive.google.com/file/d/1yD-Xu-W3Dz14157hNODoot4XE06L6Vni/view?usp=drive_link)
+### 📈 Activity & Experience
+* **Field Investigator (Central Government Initiative):** Evaluated operational metrics, successfully mapping live on-ground data problems into structured technical blueprints.
+* **Exhibitor at SRM University-AP:** Showcased clean UI configurations and architecture models directly to evaluation frameworks during competitive engineering panels.
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Keep it clean, keep it fast!</i> ✨
+  ✨ <i>"Building smooth architectures, one optimization loop at a time."</i> ✨
 </p>
