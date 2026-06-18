@@ -72,15 +72,16 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 
 ---
 
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanthampabathuni&show_icons=true&theme=tokyonight&count_private=true" alt="Jaswanth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthampabathuni&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaswanthAmpabathuni&show_icons=true&theme=tokyonight&count_private=true" alt="Jaswanth's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthAmpabathuni&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanthampabathuni&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaswanthAmpabathuni&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
