@@ -82,11 +82,11 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 
 <br/>
 
-### 🐍 Contribution Journey
+### 🌌 3D Contribution Journey
 
 <p align="center">
-  <!-- Snake Animation Game generated from your actual GitHub contributions -->
-  <img src="https://github.com/jaswanth1904/jaswanth1904/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+  <!-- 3D Contribution Graph generated from your actual GitHub contributions -->
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" width="100%" />
 </p>
 ---
 
