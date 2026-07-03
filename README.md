@@ -82,12 +82,15 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 
 <br/>
 
-### 🌌 3D Contribution Journey
+### 🏆 GitHub Stats & Top Languages
 
 <p align="center">
-  <!-- 3D Contribution Graph generated from your actual GitHub contributions -->
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" width="100%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth1904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Jaswanth's GitHub Stats" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth1904&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Jaswanth's Top Languages" width="48%" />
 </p>
+
 ---
 
 ### 📈 Activity & Experience
