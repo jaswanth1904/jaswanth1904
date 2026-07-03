@@ -58,6 +58,9 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 
 ### 💻 Featured Projects
 
+📂 **[SN Enviro Ticket Raising System](https://github.com/jaswanth1904/SN-Enviro-Ticket-Raising-System)**
+> A robust, dual-interface issue tracking and telemetry management system designed for field operations. Features real-time Socket.io updates, automated email dispatching, and SLA monitoring.
+
 📂 **[SN Enviro Attendance Portal](https://github.com/Jaswanthampabathuni)**
 > Engineered a responsive, mobile-friendly full-stack portal featuring independent frontend structures and backend APIs for real-time tracking updates. Optimized layout viewport behaviors to maximize cross-device coordination.
 
@@ -72,6 +75,19 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
 
 ---
 
+### 💼 Professional Experience
+
+**Web Developer | SN Enviro Pvt Ltd** *(Feb 2020 – Present)*
+- Developing and maintaining full-stack web applications and company websites.
+- Ensuring responsive design and cross-browser compatibility.
+- Collaborating with teams to deliver scalable digital solutions.
+
+**Freelance Full Stack Developer**
+- Developed multiple client projects using React.js and modern web technologies.
+- Built responsive websites and web applications from scratch, implementing full-stack features including authentication and database integration.
+- Deployed and maintained live applications on Vercel.
+
+---
 
 ### 📊 GitHub Activity & Insights
 
@@ -80,20 +96,9 @@ I am a highly motivated and adaptive **Computer Science and Engineering** gradua
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaswanth1904&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7abc6f&point=e0af68&area=true&hide_border=true" alt="Jaswanth's Activity Graph" width="100%" />
 </p>
 
-<br/>
-
-### 🏆 GitHub Stats & Top Languages
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth1904&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Jaswanth's GitHub Stats" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth1904&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Jaswanth's Top Languages" width="48%" />
-</p>
-
 ---
 
-### 📈 Activity & Experience
+### 📈 Extra Activity & Experience
 * **Field Investigator (Central Government Initiative):** Evaluated operational metrics, successfully mapping live on-ground data problems into structured technical blueprints.
 * **Exhibitor at SRM University-AP:** Showcased clean UI configurations and architecture models directly to evaluation frameworks during competitive engineering panels.
 
